@@ -7,19 +7,19 @@ Welcome to Soiree Nightlife! The app, currently restricted to the Soulard area o
   <form action="https://formspree.io/f/mqkgqrbk" method="POST">
     <div style="display: flex; margin: 10px">
       <label>Name</label>
-      <input type="text" name="name" style="width: 100%;">
+      <input type="text" name="name" style="width: 100%; margin-left: 10px;">
     </div>
     <div style="display: flex; margin: 10px">
       <label>Username</label>
-      <input type="text" name="username" style="width: 100%;">
+      <input type="text" name="username" style="width: 100%; margin-left: 10px;">
     </div>
     <div style="display: flex; margin: 10px">
       <label>Email</label>
-      <input type="email" name="_replyto" style="width: 100%;">
+      <input type="email" name="_replyto" style="width: 100%; margin-left: 10px;">
     </div>
     <div style="display: flex; margin: 10px">
       <label>Message</label>
-      <input type="textarea" name="message" style="width: 100%;">
+      <input type="textarea" name="message" style="width: 100%; margin-left: 10px;">
     </div>
     <div>
       <input type="submit" value="Submit">
