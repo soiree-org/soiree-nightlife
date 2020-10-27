@@ -19,7 +19,7 @@ Welcome to Soiree Nightlife! The app, currently restricted to the Soulard area o
     </div>
     <div style="display: flex; margin: 10px">
       <label>Message</label>
-      <textarea name="message" form="contact-form"></textarea>
+      <textarea name="message" form="contact-form" style="width: 100%; margin-left: 10px;"></textarea>
     </div>
     <div>
       <input type="submit" value="Submit">
