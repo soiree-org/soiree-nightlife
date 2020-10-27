@@ -5,21 +5,21 @@ Welcome to Soiree Nightlife! The app, currently restricted to the Soulard area o
 ### Contact Us
 {::nomarkdown}
   <form action="https://formspree.io/f/mqkgqrbk" method="POST">
-    <div>
+    <div style="display: flex; margin: 10px">
       <label>Name</label>
-      <input type="text" name="name">
+      <input type="text" name="name" style="width: 100%;">
     </div>
-    <div>
+    <div style="display: flex; margin: 10px">
       <label>Username</label>
-      <input type="text" name="username">
+      <input type="text" name="username" style="width: 100%;">
     </div>
-    <div>
+    <div style="display: flex; margin: 10px">
       <label>Email</label>
-      <input type="email" name="_replyto">
+      <input type="email" name="_replyto" style="width: 100%;">
     </div>
-    <div>
+    <div style="display: flex; margin: 10px">
       <label>Message</label>
-      <input type="textarea" name="message">
+      <input type="textarea" name="message" style="width: 100%;">
     </div>
     <div>
       <input type="submit" value="Submit">
