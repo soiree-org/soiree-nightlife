@@ -10,11 +10,35 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 {::nomarkdown}
   <form action="https://formspree.io/f/mqkgqrbk" method="POST">
-    <input type="text" name="name">
-    <input type="text" name="username">
-    <input type="email" name="_replyto">
-    <input type="textarea" name="feedback">
-    <input type="submit" value="Send">
+    <div class="row control-group">
+      <div class="form-group col-xs-12 floating-label-form-group controls">
+        <label>Name</label>
+        <input type="text" name="name">
+      </div>
+    </div>
+    <div class="row control-group">
+      <div class="form-group col-xs-12 floating-label-form-group controls">
+        <label>Username</label>
+        <input type="text" name="username">
+      </div>
+    </div>
+    <div class="row control-group">
+      <div class="form-group col-xs-12 floating-label-form-group controls">
+        <label>Email</label>
+        <input type="email" name="_replyto">
+      </div>
+    </div>
+    <div class="row control-group">
+      <div class="form-group col-xs-12 floating-label-form-group controls">
+        <label>Message</label>
+        <input type="textarea" name="message">
+      </div>
+    </div>
+    <div class="row">
+      <div class="form-group col-xs-12">
+        <input type="submit" value="Submit">
+      </div>
+    </div>
   </form>
 {:/nomarkdown}
 
