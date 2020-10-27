@@ -8,6 +8,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+{::nomarkdown}
+  <form action="https://formspree.io/f/mqkgqrbk" method="POST">
+    <input type="text" name="name">
+    <input type="text" name="username">
+    <input type="email" name="_replyto">
+    <input type="textarea" name="feedback">
+    <input type="submit" value="Send">
+  </form>
+{:/nomarkdown}
+
 ```markdown
 Syntax highlighted code block
 
