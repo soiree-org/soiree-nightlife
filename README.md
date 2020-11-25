@@ -3,7 +3,8 @@
 Welcome to Soiree Nightlife! The app, currently restricted to the Soulard area of St. Louis, allows you to check-in at local bars and see how crowded the bars you're going to are that night!
 
 ### Download
-[<img src="Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg">](https://apps.apple.com/us/app/soiree-nightlife/id1537269140)
+[<img src="Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="Download on the App Store">](https://apps.apple.com/us/app/soiree-nightlife/id1537269140)
+[<img src="google-play-badge.png" width="140" height="56" style="padding-top:10px;" alt="Download on the Google Play Store">](https://play.google.com/store/apps/details?id=com.dionysus.soiree)
 
 ### Contact Us
 {::nomarkdown}
