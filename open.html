@@ -7,8 +7,10 @@
               navigator.userAgent.match(/iPad/i) ||
               navigator.userAgent.match(/iPod/i)) {
                 window.location.href = "com.dionysus.soiree://";
+                this.close();
           } else if (navigator.userAgent.match(/Android/i)) {
             window.location.href = "com.dionysus.soiree://";
+            this.close();
           } else {
             window.location.href = "https://soiree-nightlife.com";   
           }
