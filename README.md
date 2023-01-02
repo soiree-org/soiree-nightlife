@@ -1,9 +1,5 @@
 # Welcome to the Website of Soiree
 
-{::nomarkdown}
-  <link rel="icon" type="image/png" href="favicon.png">
-{:/nomarkdown}
-
 ### Download
 [<img src="Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" style="padding-bottom:9px;" alt="Download on the App Store">](https://apps.apple.com/us/app/soiree-nightlife/id1537269140)
 [<img src="google-play-badge.png" width="140" height="58" alt="Download on the Google Play Store">](https://play.google.com/store/apps/details?id=com.dionysus.soiree)
