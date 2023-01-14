@@ -32,7 +32,7 @@ Welcome to Soiree Nightlife! The app, currently restricted to the Soulard area o
   </form>
 {:/nomarkdown}
 
-### Privacy Policy
+# Privacy Policy
 
 Daniel Dunn built the Soiree app as a Free app. This SERVICE is provided by Daniel Dunn at no cost and is intended for use as is.
 
